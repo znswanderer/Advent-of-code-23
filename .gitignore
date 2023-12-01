@@ -1,0 +1,14 @@
+
+ghcup install.md
+*.lock
+*.cache
+*.conf
+*/dist-newstyle/
+*.log
+.vscode/launch.json
+.vscode/tasks.json
+proj_template/
+*.ipynb_checkpoints*
+*.DS_Store
+*.pyc
+Readme Haskell.md
